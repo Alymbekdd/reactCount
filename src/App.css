@@ -1,0 +1,49 @@
+.tasbih{
+width: 200px;
+height: 200px;
+
+display: flex;
+flex-direction: column;
+align-items: center;
+margin: 100px auto;
+border-radius: 10px;
+border: 1px solid;
+}
+
+.sub{
+background-image: url("https://islamdag.ru/sites/default/files/styles/large/public/img/2021/istoriya/perviydom2101.jpg?itok=_evJEIhk");
+background-size: cover;
+}
+
+.allham{
+ background-image: url("https://img.freepik.com/free-photo/painting-mosque-with-crescent-moon-background_1340-29723.jpg");
+background-size: cover;
+}
+
+.allah{
+background-image: url("https://work-way.com/wp-content/uploads/2019/06/scale_1200-1.jpg");
+background-size: cover;
+}
+
+
+.item{
+  border: 1px solid;
+  width: 80%;
+  height: 15%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: aliceblue;
+  margin-top: 20%;
+}
+
+.btn{
+  margin-top: 20%;
+  border: 1px solid;
+  width: 20%;
+  height: 20%;
+  border-radius: 100%;
+}
+
+
+
